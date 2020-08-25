@@ -1,0 +1,7 @@
+jupyter
+nltk
+numpy
+gensim
+wordcloud
+Image
+matplotlib

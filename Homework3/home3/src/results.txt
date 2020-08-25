@@ -1,0 +1,49 @@
+POS:
+
+[('The', 'DT'), ('Stock', 'NNP'), ('Exchange', 'NNP'), ('described', 'VBD'), ('mart', 'JJ'), ('world', 'NN'), ('nerve-centre', 'JJ'), ('politics', 'NNS'), ('finances', 'NNS'), ('nations', 'NNS')]
+
+NER using nltk.ne_chunk():
+
+['Stock Exchange', 'London', 'Railways', 'Stock Exchanges Bourses Bolsas', 'London Stock Exchange', 'Stock Exchange House', 'Capel Court', 'Bank England', 'Bartholomew Lane', 'Throgmorton Street']
+
+NER custom:
+
+['Stock Exchange', 'London worse hells', 'Money Market', 'Government scheme finance betake', 'Government', 'Thus Stock Exchange', 'List market', 'Stock Exchange House members', 'Rules', 'Gorgonzola Hall Stock Exchange']
+
+Entity classification (ne_chunk()):
+
+Stock Exchange : stock exchange securities exchange bourse facility stock brokers traders securities such shares stock bonds other financial instruments
+
+London : London LUN-dən capital largest city England United Kingdom
+
+Railways : Rail transport means passengers goods wheeled vehicles rails tracks
+
+London Stock Exchange : London Stock Exchange stock exchange City London England
+
+Stock Exchange House : stock exchange securities exchange bourse facility stock brokers traders securities such shares stock bonds other financial instruments
+
+Capel Court : Felton Jeffrey Capel III born February American college basketball coach former player
+
+Bank England : Bank England central bank United Kingdom model most modern central banks
+
+Bartholomew Lane : Bartholomew Lane City London junction Lothbury Throgmorton Street north Threadneedle Street south
+
+Throgmorton Street : Throgmorton Street minor road City London Lothbury west Old Broad Street east
+
+
+Entity classification (ne_chunk()):
+
+Stock Exchange : stock exchange securities exchange bourse facility stock brokers traders securities such shares stock bonds other financial instruments
+
+Money Market : money commodity money market component financial market assets short-term borrowing lending original maturities year less
+
+Government : government system group people community state.In case broad associative definition government legislature executive judiciary
+
+Thus Stock Exchange : National Stock Exchange India Limited NSE stock exchange India Mumbai
+
+List market : following list companies greatest market capitalization
+
+Stock Exchange House members : stock exchange securities exchange bourse facility stock brokers traders securities such shares stock bonds other financial instruments
+
+Gorgonzola Hall Stock Exchange : Milan Milanese [ miˈlãː ] Italian Milano [ miˈlaːno ] city northern Italy capital Lombardy second-most populous city Italy Rome city proper population metropolitan area population
+

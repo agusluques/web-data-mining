@@ -1,0 +1,1213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="value" type="long" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>25/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="BrighamYoung" label="BrighamYoung">
+        <viz:color a="0" b="0" g="0" r="255" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="FloridaState" label="FloridaState">
+        <viz:color a="0" b="0" g="0" r="255" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Iowa" label="Iowa">
+        <viz:color a="0" b="0" g="0" r="255" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="KansasState" label="KansasState">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="NewMexico" label="NewMexico">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="TexasTech" label="TexasTech">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="PennState" label="PennState">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="SouthernCalifornia" label="SouthernCalifornia">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="ArizonaState" label="ArizonaState">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="SanDiegoState" label="SanDiegoState">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="Baylor" label="Baylor">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="NorthTexas" label="NorthTexas">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="NorthernIllinois" label="NorthernIllinois">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Northwestern" label="Northwestern">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="WesternMichigan" label="WesternMichigan">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Wisconsin" label="Wisconsin">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Wyoming" label="Wyoming">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="Auburn" label="Auburn">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Akron" label="Akron">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="VirginiaTech" label="VirginiaTech">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Alabama" label="Alabama">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="UCLA" label="UCLA">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Arizona" label="Arizona">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Utah" label="Utah">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="ArkansasState" label="ArkansasState">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="NorthCarolinaState" label="NorthCarolinaState">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="BallState" label="BallState">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Florida" label="Florida">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="BoiseState" label="BoiseState">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="BostonCollege" label="BostonCollege">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="WestVirginia" label="WestVirginia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="BowlingGreenState" label="BowlingGreenState">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Michigan" label="Michigan">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Virginia" label="Virginia">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Buffalo" label="Buffalo">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Syracuse" label="Syracuse">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="CentralFlorida" label="CentralFlorida">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="GeorgiaTech" label="GeorgiaTech">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="CentralMichigan" label="CentralMichigan">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Purdue" label="Purdue">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Colorado" label="Colorado">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="ColoradoState" label="ColoradoState">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="Connecticut" label="Connecticut">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="EasternMichigan" label="EasternMichigan">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="EastCarolina" label="EastCarolina">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Duke" label="Duke">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="FresnoState" label="FresnoState">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="OhioState" label="OhioState">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Houston" label="Houston">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Rice" label="Rice">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="Idaho" label="Idaho">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Washington" label="Washington">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Kansas" label="Kansas">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="SouthernMethodist" label="SouthernMethodist">
+        <viz:color a="0" b="0" g="0" r="255" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="Kent" label="Kent">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Pittsburgh" label="Pittsburgh">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kentucky" label="Kentucky">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Louisville" label="Louisville">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="LouisianaTech" label="LouisianaTech">
+        <viz:color a="0" b="0" g="0" r="255" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="LouisianaMonroe" label="LouisianaMonroe">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Minnesota" label="Minnesota">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="MiamiOhio" label="MiamiOhio">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Vanderbilt" label="Vanderbilt">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="MiddleTennesseeState" label="MiddleTennesseeState">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Illinois" label="Illinois">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="MississippiState" label="MississippiState">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Memphis" label="Memphis">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Nevada" label="Nevada">
+        <viz:color a="0" b="0" g="0" r="255" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="Oregon" label="Oregon">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="NewMexicoState" label="NewMexicoState">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="SouthCarolina" label="SouthCarolina">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Ohio" label="Ohio">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="IowaState" label="IowaState">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="SanJoseState" label="SanJoseState">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="Nebraska" label="Nebraska">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="SouthernMississippi" label="SouthernMississippi">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Tennessee" label="Tennessee">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Stanford" label="Stanford">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="WashingtonState" label="WashingtonState">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Temple" label="Temple">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Navy" label="Navy">
+        <viz:color a="0" b="0" g="0" r="255" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="TexasA&amp;M" label="TexasA&amp;M">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="NotreDame" label="NotreDame">
+        <viz:color a="0" b="0" g="0" r="255" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="TexasElPaso" label="TexasElPaso">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="Oklahoma" label="Oklahoma">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Toledo" label="Toledo">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Tulane" label="Tulane">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Mississippi" label="Mississippi">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Tulsa" label="Tulsa">
+        <viz:color a="0" b="0" g="0" r="255" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="NorthCarolina" label="NorthCarolina">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="UtahState" label="UtahState">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Army" label="Army">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Cincinnati" label="Cincinnati">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="AirForce" label="AirForce">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="Rutgers" label="Rutgers">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Georgia" label="Georgia">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="LouisianaState" label="LouisianaState">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="LouisianaLafayette" label="LouisianaLafayette">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Texas" label="Texas">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Marshall" label="Marshall">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="MichiganState" label="MichiganState">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="MiamiFlorida" label="MiamiFlorida">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Missouri" label="Missouri">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Clemson" label="Clemson">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="NevadaLasVegas" label="NevadaLasVegas">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="WakeForest" label="WakeForest">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Indiana" label="Indiana">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="OklahomaState" label="OklahomaState">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="OregonState" label="OregonState">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Maryland" label="Maryland">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="TexasChristian" label="TexasChristian">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="California" label="California">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="AlabamaBirmingham" label="AlabamaBirmingham">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Arkansas" label="Arkansas">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Hawaii" label="Hawaii">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="BrighamYoung" target="FloridaState" />
+      <edge id="1" source="BrighamYoung" target="NewMexico" />
+      <edge id="2" source="BrighamYoung" target="SanDiegoState" />
+      <edge id="3" source="BrighamYoung" target="Wyoming" />
+      <edge id="4" source="BrighamYoung" target="Utah" />
+      <edge id="5" source="BrighamYoung" target="Virginia" />
+      <edge id="6" source="BrighamYoung" target="Syracuse" />
+      <edge id="7" source="BrighamYoung" target="ColoradoState" />
+      <edge id="8" source="BrighamYoung" target="MississippiState" />
+      <edge id="9" source="BrighamYoung" target="UtahState" />
+      <edge id="10" source="BrighamYoung" target="AirForce" />
+      <edge id="11" source="BrighamYoung" target="NevadaLasVegas" />
+      <edge id="12" source="FloridaState" target="NorthCarolinaState" />
+      <edge id="13" source="FloridaState" target="Florida" />
+      <edge id="14" source="FloridaState" target="Virginia" />
+      <edge id="15" source="FloridaState" target="GeorgiaTech" />
+      <edge id="16" source="FloridaState" target="Duke" />
+      <edge id="17" source="FloridaState" target="Louisville" />
+      <edge id="18" source="FloridaState" target="NorthCarolina" />
+      <edge id="19" source="FloridaState" target="MiamiFlorida" />
+      <edge id="20" source="FloridaState" target="Clemson" />
+      <edge id="21" source="FloridaState" target="WakeForest" />
+      <edge id="22" source="FloridaState" target="Maryland" />
+      <edge id="23" source="Iowa" target="KansasState" />
+      <edge id="24" source="Iowa" target="PennState" />
+      <edge id="25" source="Iowa" target="Northwestern" />
+      <edge id="26" source="Iowa" target="WesternMichigan" />
+      <edge id="27" source="Iowa" target="Wisconsin" />
+      <edge id="28" source="Iowa" target="OhioState" />
+      <edge id="29" source="Iowa" target="Minnesota" />
+      <edge id="30" source="Iowa" target="Illinois" />
+      <edge id="31" source="Iowa" target="IowaState" />
+      <edge id="32" source="Iowa" target="Nebraska" />
+      <edge id="33" source="Iowa" target="MichiganState" />
+      <edge id="34" source="Iowa" target="Indiana" />
+      <edge id="35" source="KansasState" target="TexasTech" />
+      <edge id="36" source="KansasState" target="NorthTexas" />
+      <edge id="37" source="KansasState" target="BallState" />
+      <edge id="38" source="KansasState" target="Colorado" />
+      <edge id="39" source="KansasState" target="Kansas" />
+      <edge id="40" source="KansasState" target="LouisianaTech" />
+      <edge id="41" source="KansasState" target="IowaState" />
+      <edge id="42" source="KansasState" target="Nebraska" />
+      <edge id="43" source="KansasState" target="TexasA&amp;M" />
+      <edge id="44" source="KansasState" target="Oklahoma" />
+      <edge id="45" source="KansasState" target="Missouri" />
+      <edge id="46" source="NewMexico" target="TexasTech" />
+      <edge id="47" source="NewMexico" target="SanDiegoState" />
+      <edge id="48" source="NewMexico" target="Wyoming" />
+      <edge id="49" source="NewMexico" target="Utah" />
+      <edge id="50" source="NewMexico" target="BoiseState" />
+      <edge id="51" source="NewMexico" target="ColoradoState" />
+      <edge id="52" source="NewMexico" target="NewMexicoState" />
+      <edge id="53" source="NewMexico" target="AirForce" />
+      <edge id="54" source="NewMexico" target="NevadaLasVegas" />
+      <edge id="55" source="NewMexico" target="OregonState" />
+      <edge id="56" source="TexasTech" target="Baylor" />
+      <edge id="57" source="TexasTech" target="NorthTexas" />
+      <edge id="58" source="TexasTech" target="Kansas" />
+      <edge id="59" source="TexasTech" target="Nebraska" />
+      <edge id="60" source="TexasTech" target="TexasA&amp;M" />
+      <edge id="61" source="TexasTech" target="Oklahoma" />
+      <edge id="62" source="TexasTech" target="UtahState" />
+      <edge id="63" source="TexasTech" target="LouisianaLafayette" />
+      <edge id="64" source="TexasTech" target="Texas" />
+      <edge id="65" source="TexasTech" target="OklahomaState" />
+      <edge id="66" source="PennState" target="SouthernCalifornia" />
+      <edge id="67" source="PennState" target="Michigan" />
+      <edge id="68" source="PennState" target="Purdue" />
+      <edge id="69" source="PennState" target="OhioState" />
+      <edge id="70" source="PennState" target="Pittsburgh" />
+      <edge id="71" source="PennState" target="LouisianaTech" />
+      <edge id="72" source="PennState" target="Minnesota" />
+      <edge id="73" source="PennState" target="Illinois" />
+      <edge id="74" source="PennState" target="Toledo" />
+      <edge id="75" source="PennState" target="MichiganState" />
+      <edge id="76" source="PennState" target="Indiana" />
+      <edge id="77" source="SouthernCalifornia" target="ArizonaState" />
+      <edge id="78" source="SouthernCalifornia" target="UCLA" />
+      <edge id="79" source="SouthernCalifornia" target="Arizona" />
+      <edge id="80" source="SouthernCalifornia" target="Colorado" />
+      <edge id="81" source="SouthernCalifornia" target="Oregon" />
+      <edge id="82" source="SouthernCalifornia" target="SanJoseState" />
+      <edge id="83" source="SouthernCalifornia" target="Stanford" />
+      <edge id="84" source="SouthernCalifornia" target="WashingtonState" />
+      <edge id="85" source="SouthernCalifornia" target="NotreDame" />
+      <edge id="86" source="SouthernCalifornia" target="OregonState" />
+      <edge id="87" source="SouthernCalifornia" target="California" />
+      <edge id="88" source="ArizonaState" target="SanDiegoState" />
+      <edge id="89" source="ArizonaState" target="UCLA" />
+      <edge id="90" source="ArizonaState" target="Arizona" />
+      <edge id="91" source="ArizonaState" target="ColoradoState" />
+      <edge id="92" source="ArizonaState" target="Washington" />
+      <edge id="93" source="ArizonaState" target="Oregon" />
+      <edge id="94" source="ArizonaState" target="Stanford" />
+      <edge id="95" source="ArizonaState" target="WashingtonState" />
+      <edge id="96" source="ArizonaState" target="UtahState" />
+      <edge id="97" source="ArizonaState" target="California" />
+      <edge id="98" source="SanDiegoState" target="Wyoming" />
+      <edge id="99" source="SanDiegoState" target="Arizona" />
+      <edge id="100" source="SanDiegoState" target="Utah" />
+      <edge id="101" source="SanDiegoState" target="ColoradoState" />
+      <edge id="102" source="SanDiegoState" target="Illinois" />
+      <edge id="103" source="SanDiegoState" target="AirForce" />
+      <edge id="104" source="SanDiegoState" target="NevadaLasVegas" />
+      <edge id="105" source="SanDiegoState" target="OregonState" />
+      <edge id="106" source="Baylor" target="NorthTexas" />
+      <edge id="107" source="Baylor" target="Minnesota" />
+      <edge id="108" source="Baylor" target="IowaState" />
+      <edge id="109" source="Baylor" target="Nebraska" />
+      <edge id="110" source="Baylor" target="TexasA&amp;M" />
+      <edge id="111" source="Baylor" target="Oklahoma" />
+      <edge id="112" source="Baylor" target="Texas" />
+      <edge id="113" source="Baylor" target="Missouri" />
+      <edge id="114" source="Baylor" target="OklahomaState" />
+      <edge id="115" source="NorthTexas" target="ArkansasState" />
+      <edge id="116" source="NorthTexas" target="BoiseState" />
+      <edge id="117" source="NorthTexas" target="Idaho" />
+      <edge id="118" source="NorthTexas" target="NewMexicoState" />
+      <edge id="119" source="NorthTexas" target="UtahState" />
+      <edge id="120" source="NorthTexas" target="LouisianaLafayette" />
+      <edge id="121" source="NorthTexas" target="NevadaLasVegas" />
+      <edge id="122" source="NorthernIllinois" target="Northwestern" />
+      <edge id="123" source="NorthernIllinois" target="WesternMichigan" />
+      <edge id="124" source="NorthernIllinois" target="Auburn" />
+      <edge id="125" source="NorthernIllinois" target="Akron" />
+      <edge id="126" source="NorthernIllinois" target="BallState" />
+      <edge id="127" source="NorthernIllinois" target="Buffalo" />
+      <edge id="128" source="NorthernIllinois" target="CentralFlorida" />
+      <edge id="129" source="NorthernIllinois" target="CentralMichigan" />
+      <edge id="130" source="NorthernIllinois" target="EasternMichigan" />
+      <edge id="131" source="NorthernIllinois" target="Toledo" />
+      <edge id="132" source="Northwestern" target="Wisconsin" />
+      <edge id="133" source="Northwestern" target="Michigan" />
+      <edge id="134" source="Northwestern" target="Purdue" />
+      <edge id="135" source="Northwestern" target="Duke" />
+      <edge id="136" source="Northwestern" target="Minnesota" />
+      <edge id="137" source="Northwestern" target="Illinois" />
+      <edge id="138" source="Northwestern" target="MichiganState" />
+      <edge id="139" source="Northwestern" target="Indiana" />
+      <edge id="140" source="Northwestern" target="TexasChristian" />
+      <edge id="141" source="WesternMichigan" target="Wisconsin" />
+      <edge id="142" source="WesternMichigan" target="BallState" />
+      <edge id="143" source="WesternMichigan" target="CentralMichigan" />
+      <edge id="144" source="WesternMichigan" target="EasternMichigan" />
+      <edge id="145" source="WesternMichigan" target="Kent" />
+      <edge id="146" source="WesternMichigan" target="Ohio" />
+      <edge id="147" source="WesternMichigan" target="Toledo" />
+      <edge id="148" source="WesternMichigan" target="Marshall" />
+      <edge id="149" source="Wisconsin" target="Michigan" />
+      <edge id="150" source="Wisconsin" target="Purdue" />
+      <edge id="151" source="Wisconsin" target="OhioState" />
+      <edge id="152" source="Wisconsin" target="Minnesota" />
+      <edge id="153" source="Wisconsin" target="Oregon" />
+      <edge id="154" source="Wisconsin" target="Cincinnati" />
+      <edge id="155" source="Wisconsin" target="MichiganState" />
+      <edge id="156" source="Wisconsin" target="Indiana" />
+      <edge id="157" source="Wisconsin" target="Hawaii" />
+      <edge id="158" source="Wyoming" target="Auburn" />
+      <edge id="159" source="Wyoming" target="Utah" />
+      <edge id="160" source="Wyoming" target="CentralMichigan" />
+      <edge id="161" source="Wyoming" target="ColoradoState" />
+      <edge id="162" source="Wyoming" target="Nevada" />
+      <edge id="163" source="Wyoming" target="TexasA&amp;M" />
+      <edge id="164" source="Wyoming" target="AirForce" />
+      <edge id="165" source="Wyoming" target="NevadaLasVegas" />
+      <edge id="166" source="Auburn" target="Alabama" />
+      <edge id="167" source="Auburn" target="Florida" />
+      <edge id="168" source="Auburn" target="LouisianaTech" />
+      <edge id="169" source="Auburn" target="Vanderbilt" />
+      <edge id="170" source="Auburn" target="MississippiState" />
+      <edge id="171" source="Auburn" target="Mississippi" />
+      <edge id="172" source="Auburn" target="Georgia" />
+      <edge id="173" source="Auburn" target="LouisianaState" />
+      <edge id="174" source="Auburn" target="Arkansas" />
+      <edge id="175" source="Akron" target="VirginiaTech" />
+      <edge id="176" source="Akron" target="BowlingGreenState" />
+      <edge id="177" source="Akron" target="Buffalo" />
+      <edge id="178" source="Akron" target="CentralFlorida" />
+      <edge id="179" source="Akron" target="CentralMichigan" />
+      <edge id="180" source="Akron" target="Connecticut" />
+      <edge id="181" source="Akron" target="Kent" />
+      <edge id="182" source="Akron" target="MiamiOhio" />
+      <edge id="183" source="Akron" target="Ohio" />
+      <edge id="184" source="Akron" target="Marshall" />
+      <edge id="185" source="VirginiaTech" target="BostonCollege" />
+      <edge id="186" source="VirginiaTech" target="WestVirginia" />
+      <edge id="187" source="VirginiaTech" target="Virginia" />
+      <edge id="188" source="VirginiaTech" target="Syracuse" />
+      <edge id="189" source="VirginiaTech" target="CentralFlorida" />
+      <edge id="190" source="VirginiaTech" target="EastCarolina" />
+      <edge id="191" source="VirginiaTech" target="Pittsburgh" />
+      <edge id="192" source="VirginiaTech" target="Temple" />
+      <edge id="193" source="VirginiaTech" target="Rutgers" />
+      <edge id="194" source="VirginiaTech" target="MiamiFlorida" />
+      <edge id="195" source="Alabama" target="UCLA" />
+      <edge id="196" source="Alabama" target="CentralFlorida" />
+      <edge id="197" source="Alabama" target="Vanderbilt" />
+      <edge id="198" source="Alabama" target="MississippiState" />
+      <edge id="199" source="Alabama" target="SouthCarolina" />
+      <edge id="200" source="Alabama" target="SouthernMississippi" />
+      <edge id="201" source="Alabama" target="Tennessee" />
+      <edge id="202" source="Alabama" target="Mississippi" />
+      <edge id="203" source="Alabama" target="LouisianaState" />
+      <edge id="204" source="Alabama" target="Arkansas" />
+      <edge id="205" source="UCLA" target="Arizona" />
+      <edge id="206" source="UCLA" target="Michigan" />
+      <edge id="207" source="UCLA" target="FresnoState" />
+      <edge id="208" source="UCLA" target="Washington" />
+      <edge id="209" source="UCLA" target="Oregon" />
+      <edge id="210" source="UCLA" target="Stanford" />
+      <edge id="211" source="UCLA" target="OregonState" />
+      <edge id="212" source="UCLA" target="California" />
+      <edge id="213" source="Arizona" target="Utah" />
+      <edge id="214" source="Arizona" target="OhioState" />
+      <edge id="215" source="Arizona" target="Washington" />
+      <edge id="216" source="Arizona" target="Oregon" />
+      <edge id="217" source="Arizona" target="Stanford" />
+      <edge id="218" source="Arizona" target="WashingtonState" />
+      <edge id="219" source="Arizona" target="OregonState" />
+      <edge id="220" source="Utah" target="ColoradoState" />
+      <edge id="221" source="Utah" target="WashingtonState" />
+      <edge id="222" source="Utah" target="UtahState" />
+      <edge id="223" source="Utah" target="AirForce" />
+      <edge id="224" source="Utah" target="NevadaLasVegas" />
+      <edge id="225" source="Utah" target="California" />
+      <edge id="226" source="ArkansasState" target="NorthCarolinaState" />
+      <edge id="227" source="ArkansasState" target="BoiseState" />
+      <edge id="228" source="ArkansasState" target="Idaho" />
+      <edge id="229" source="ArkansasState" target="Memphis" />
+      <edge id="230" source="ArkansasState" target="NewMexicoState" />
+      <edge id="231" source="ArkansasState" target="Oklahoma" />
+      <edge id="232" source="ArkansasState" target="Mississippi" />
+      <edge id="233" source="ArkansasState" target="UtahState" />
+      <edge id="234" source="ArkansasState" target="TexasChristian" />
+      <edge id="235" source="NorthCarolinaState" target="Virginia" />
+      <edge id="236" source="NorthCarolinaState" target="GeorgiaTech" />
+      <edge id="237" source="NorthCarolinaState" target="Duke" />
+      <edge id="238" source="NorthCarolinaState" target="SouthernMethodist" />
+      <edge id="239" source="NorthCarolinaState" target="NorthCarolina" />
+      <edge id="240" source="NorthCarolinaState" target="Clemson" />
+      <edge id="241" source="NorthCarolinaState" target="WakeForest" />
+      <edge id="242" source="NorthCarolinaState" target="Indiana" />
+      <edge id="243" source="NorthCarolinaState" target="Maryland" />
+      <edge id="244" source="BallState" target="Florida" />
+      <edge id="245" source="BallState" target="Buffalo" />
+      <edge id="246" source="BallState" target="CentralMichigan" />
+      <edge id="247" source="BallState" target="Connecticut" />
+      <edge id="248" source="BallState" target="EasternMichigan" />
+      <edge id="249" source="BallState" target="MiamiOhio" />
+      <edge id="250" source="BallState" target="Toledo" />
+      <edge id="251" source="Florida" target="Kentucky" />
+      <edge id="252" source="Florida" target="Vanderbilt" />
+      <edge id="253" source="Florida" target="MiddleTennesseeState" />
+      <edge id="254" source="Florida" target="MississippiState" />
+      <edge id="255" source="Florida" target="SouthCarolina" />
+      <edge id="256" source="Florida" target="Tennessee" />
+      <edge id="257" source="Florida" target="Georgia" />
+      <edge id="258" source="Florida" target="LouisianaState" />
+      <edge id="259" source="BoiseState" target="CentralMichigan" />
+      <edge id="260" source="BoiseState" target="Idaho" />
+      <edge id="261" source="BoiseState" target="NewMexicoState" />
+      <edge id="262" source="BoiseState" target="WashingtonState" />
+      <edge id="263" source="BoiseState" target="UtahState" />
+      <edge id="264" source="BoiseState" target="Arkansas" />
+      <edge id="265" source="BostonCollege" target="WestVirginia" />
+      <edge id="266" source="BostonCollege" target="Syracuse" />
+      <edge id="267" source="BostonCollege" target="Connecticut" />
+      <edge id="268" source="BostonCollege" target="Pittsburgh" />
+      <edge id="269" source="BostonCollege" target="Temple" />
+      <edge id="270" source="BostonCollege" target="Navy" />
+      <edge id="271" source="BostonCollege" target="NotreDame" />
+      <edge id="272" source="BostonCollege" target="Army" />
+      <edge id="273" source="BostonCollege" target="Rutgers" />
+      <edge id="274" source="BostonCollege" target="MiamiFlorida" />
+      <edge id="275" source="WestVirginia" target="Syracuse" />
+      <edge id="276" source="WestVirginia" target="EastCarolina" />
+      <edge id="277" source="WestVirginia" target="Idaho" />
+      <edge id="278" source="WestVirginia" target="Pittsburgh" />
+      <edge id="279" source="WestVirginia" target="Temple" />
+      <edge id="280" source="WestVirginia" target="NotreDame" />
+      <edge id="281" source="WestVirginia" target="Rutgers" />
+      <edge id="282" source="WestVirginia" target="MiamiFlorida" />
+      <edge id="283" source="WestVirginia" target="Maryland" />
+      <edge id="284" source="BowlingGreenState" target="Michigan" />
+      <edge id="285" source="BowlingGreenState" target="Buffalo" />
+      <edge id="286" source="BowlingGreenState" target="EasternMichigan" />
+      <edge id="287" source="BowlingGreenState" target="Kent" />
+      <edge id="288" source="BowlingGreenState" target="Pittsburgh" />
+      <edge id="289" source="BowlingGreenState" target="MiamiOhio" />
+      <edge id="290" source="BowlingGreenState" target="Ohio" />
+      <edge id="291" source="BowlingGreenState" target="Temple" />
+      <edge id="292" source="BowlingGreenState" target="Toledo" />
+      <edge id="293" source="BowlingGreenState" target="Marshall" />
+      <edge id="294" source="Michigan" target="Purdue" />
+      <edge id="295" source="Michigan" target="OhioState" />
+      <edge id="296" source="Michigan" target="Rice" />
+      <edge id="297" source="Michigan" target="Illinois" />
+      <edge id="298" source="Michigan" target="MichiganState" />
+      <edge id="299" source="Michigan" target="Indiana" />
+      <edge id="300" source="Virginia" target="GeorgiaTech" />
+      <edge id="301" source="Virginia" target="Duke" />
+      <edge id="302" source="Virginia" target="NorthCarolina" />
+      <edge id="303" source="Virginia" target="Clemson" />
+      <edge id="304" source="Virginia" target="WakeForest" />
+      <edge id="305" source="Virginia" target="Maryland" />
+      <edge id="306" source="Buffalo" target="Syracuse" />
+      <edge id="307" source="Buffalo" target="Connecticut" />
+      <edge id="308" source="Buffalo" target="Kent" />
+      <edge id="309" source="Buffalo" target="MiamiOhio" />
+      <edge id="310" source="Buffalo" target="Ohio" />
+      <edge id="311" source="Buffalo" target="Rutgers" />
+      <edge id="312" source="Buffalo" target="Marshall" />
+      <edge id="313" source="Syracuse" target="EastCarolina" />
+      <edge id="314" source="Syracuse" target="Pittsburgh" />
+      <edge id="315" source="Syracuse" target="Temple" />
+      <edge id="316" source="Syracuse" target="Cincinnati" />
+      <edge id="317" source="Syracuse" target="Rutgers" />
+      <edge id="318" source="Syracuse" target="MiamiFlorida" />
+      <edge id="319" source="CentralFlorida" target="GeorgiaTech" />
+      <edge id="320" source="CentralFlorida" target="EasternMichigan" />
+      <edge id="321" source="CentralFlorida" target="LouisianaTech" />
+      <edge id="322" source="CentralFlorida" target="LouisianaMonroe" />
+      <edge id="323" source="GeorgiaTech" target="Duke" />
+      <edge id="324" source="GeorgiaTech" target="Navy" />
+      <edge id="325" source="GeorgiaTech" target="NorthCarolina" />
+      <edge id="326" source="GeorgiaTech" target="Georgia" />
+      <edge id="327" source="GeorgiaTech" target="Clemson" />
+      <edge id="328" source="GeorgiaTech" target="WakeForest" />
+      <edge id="329" source="GeorgiaTech" target="Maryland" />
+      <edge id="330" source="CentralMichigan" target="Purdue" />
+      <edge id="331" source="CentralMichigan" target="EasternMichigan" />
+      <edge id="332" source="CentralMichigan" target="Kent" />
+      <edge id="333" source="CentralMichigan" target="Ohio" />
+      <edge id="334" source="CentralMichigan" target="Toledo" />
+      <edge id="335" source="Purdue" target="OhioState" />
+      <edge id="336" source="Purdue" target="Kent" />
+      <edge id="337" source="Purdue" target="Minnesota" />
+      <edge id="338" source="Purdue" target="NotreDame" />
+      <edge id="339" source="Purdue" target="MichiganState" />
+      <edge id="340" source="Purdue" target="Indiana" />
+      <edge id="341" source="Colorado" target="ColoradoState" />
+      <edge id="342" source="Colorado" target="Washington" />
+      <edge id="343" source="Colorado" target="Kansas" />
+      <edge id="344" source="Colorado" target="IowaState" />
+      <edge id="345" source="Colorado" target="Nebraska" />
+      <edge id="346" source="Colorado" target="TexasA&amp;M" />
+      <edge id="347" source="Colorado" target="Texas" />
+      <edge id="348" source="Colorado" target="Missouri" />
+      <edge id="349" source="Colorado" target="OklahomaState" />
+      <edge id="350" source="ColoradoState" target="Nevada" />
+      <edge id="351" source="ColoradoState" target="AirForce" />
+      <edge id="352" source="ColoradoState" target="NevadaLasVegas" />
+      <edge id="353" source="Connecticut" target="EasternMichigan" />
+      <edge id="354" source="Connecticut" target="Louisville" />
+      <edge id="355" source="Connecticut" target="MiddleTennesseeState" />
+      <edge id="356" source="EasternMichigan" target="MiamiOhio" />
+      <edge id="357" source="EasternMichigan" target="SouthCarolina" />
+      <edge id="358" source="EasternMichigan" target="Temple" />
+      <edge id="359" source="EasternMichigan" target="Toledo" />
+      <edge id="360" source="EastCarolina" target="Duke" />
+      <edge id="361" source="EastCarolina" target="Houston" />
+      <edge id="362" source="EastCarolina" target="Louisville" />
+      <edge id="363" source="EastCarolina" target="Memphis" />
+      <edge id="364" source="EastCarolina" target="SouthernMississippi" />
+      <edge id="365" source="EastCarolina" target="Tulane" />
+      <edge id="366" source="EastCarolina" target="Army" />
+      <edge id="367" source="EastCarolina" target="AlabamaBirmingham" />
+      <edge id="368" source="Duke" target="Vanderbilt" />
+      <edge id="369" source="Duke" target="NorthCarolina" />
+      <edge id="370" source="Duke" target="Clemson" />
+      <edge id="371" source="Duke" target="WakeForest" />
+      <edge id="372" source="Duke" target="Maryland" />
+      <edge id="373" source="FresnoState" target="OhioState" />
+      <edge id="374" source="FresnoState" target="Rice" />
+      <edge id="375" source="FresnoState" target="SouthernMethodist" />
+      <edge id="376" source="FresnoState" target="Nevada" />
+      <edge id="377" source="FresnoState" target="SanJoseState" />
+      <edge id="378" source="FresnoState" target="TexasElPaso" />
+      <edge id="379" source="FresnoState" target="Tulsa" />
+      <edge id="380" source="FresnoState" target="TexasChristian" />
+      <edge id="381" source="FresnoState" target="California" />
+      <edge id="382" source="FresnoState" target="Hawaii" />
+      <edge id="383" source="OhioState" target="Minnesota" />
+      <edge id="384" source="OhioState" target="MiamiOhio" />
+      <edge id="385" source="OhioState" target="Illinois" />
+      <edge id="386" source="OhioState" target="MichiganState" />
+      <edge id="387" source="Houston" target="Rice" />
+      <edge id="388" source="Houston" target="SouthernMethodist" />
+      <edge id="389" source="Houston" target="Louisville" />
+      <edge id="390" source="Houston" target="Memphis" />
+      <edge id="391" source="Houston" target="SouthernMississippi" />
+      <edge id="392" source="Houston" target="Tulane" />
+      <edge id="393" source="Houston" target="Army" />
+      <edge id="394" source="Houston" target="Cincinnati" />
+      <edge id="395" source="Houston" target="LouisianaState" />
+      <edge id="396" source="Houston" target="Texas" />
+      <edge id="397" source="Rice" target="SouthernMethodist" />
+      <edge id="398" source="Rice" target="Nevada" />
+      <edge id="399" source="Rice" target="SanJoseState" />
+      <edge id="400" source="Rice" target="TexasElPaso" />
+      <edge id="401" source="Rice" target="Oklahoma" />
+      <edge id="402" source="Rice" target="Tulsa" />
+      <edge id="403" source="Rice" target="TexasChristian" />
+      <edge id="404" source="Rice" target="Hawaii" />
+      <edge id="405" source="Idaho" target="Washington" />
+      <edge id="406" source="Idaho" target="Oregon" />
+      <edge id="407" source="Idaho" target="NewMexicoState" />
+      <edge id="408" source="Idaho" target="WashingtonState" />
+      <edge id="409" source="Idaho" target="UtahState" />
+      <edge id="410" source="Washington" target="Oregon" />
+      <edge id="411" source="Washington" target="Stanford" />
+      <edge id="412" source="Washington" target="WashingtonState" />
+      <edge id="413" source="Washington" target="MiamiFlorida" />
+      <edge id="414" source="Washington" target="OregonState" />
+      <edge id="415" source="Washington" target="California" />
+      <edge id="416" source="Kansas" target="SouthernMethodist" />
+      <edge id="417" source="Kansas" target="IowaState" />
+      <edge id="418" source="Kansas" target="Nebraska" />
+      <edge id="419" source="Kansas" target="Oklahoma" />
+      <edge id="420" source="Kansas" target="Texas" />
+      <edge id="421" source="Kansas" target="Missouri" />
+      <edge id="422" source="Kansas" target="AlabamaBirmingham" />
+      <edge id="423" source="SouthernMethodist" target="Nevada" />
+      <edge id="424" source="SouthernMethodist" target="SanJoseState" />
+      <edge id="425" source="SouthernMethodist" target="TexasElPaso" />
+      <edge id="426" source="SouthernMethodist" target="Tulane" />
+      <edge id="427" source="SouthernMethodist" target="Tulsa" />
+      <edge id="428" source="SouthernMethodist" target="TexasChristian" />
+      <edge id="429" source="SouthernMethodist" target="Hawaii" />
+      <edge id="430" source="Kent" target="Pittsburgh" />
+      <edge id="431" source="Kent" target="MiamiOhio" />
+      <edge id="432" source="Kent" target="Ohio" />
+      <edge id="433" source="Kent" target="Marshall" />
+      <edge id="434" source="Pittsburgh" target="Temple" />
+      <edge id="435" source="Pittsburgh" target="NorthCarolina" />
+      <edge id="436" source="Pittsburgh" target="Rutgers" />
+      <edge id="437" source="Pittsburgh" target="MiamiFlorida" />
+      <edge id="438" source="Kentucky" target="Louisville" />
+      <edge id="439" source="Kentucky" target="Vanderbilt" />
+      <edge id="440" source="Kentucky" target="MississippiState" />
+      <edge id="441" source="Kentucky" target="SouthCarolina" />
+      <edge id="442" source="Kentucky" target="Tennessee" />
+      <edge id="443" source="Kentucky" target="Mississippi" />
+      <edge id="444" source="Kentucky" target="Georgia" />
+      <edge id="445" source="Kentucky" target="LouisianaState" />
+      <edge id="446" source="Kentucky" target="Indiana" />
+      <edge id="447" source="Louisville" target="SouthernMississippi" />
+      <edge id="448" source="Louisville" target="Tulane" />
+      <edge id="449" source="Louisville" target="Army" />
+      <edge id="450" source="Louisville" target="Cincinnati" />
+      <edge id="451" source="Louisville" target="AlabamaBirmingham" />
+      <edge id="452" source="LouisianaTech" target="LouisianaMonroe" />
+      <edge id="453" source="LouisianaTech" target="MiddleTennesseeState" />
+      <edge id="454" source="LouisianaTech" target="Tulsa" />
+      <edge id="455" source="LouisianaTech" target="LouisianaLafayette" />
+      <edge id="456" source="LouisianaTech" target="MiamiFlorida" />
+      <edge id="457" source="LouisianaTech" target="Hawaii" />
+      <edge id="458" source="LouisianaMonroe" target="Minnesota" />
+      <edge id="459" source="LouisianaMonroe" target="MiddleTennesseeState" />
+      <edge id="460" source="LouisianaMonroe" target="Memphis" />
+      <edge id="461" source="LouisianaMonroe" target="Tennessee" />
+      <edge id="462" source="LouisianaMonroe" target="LouisianaLafayette" />
+      <edge id="463" source="LouisianaMonroe" target="Arkansas" />
+      <edge id="464" source="Minnesota" target="Illinois" />
+      <edge id="465" source="Minnesota" target="Ohio" />
+      <edge id="466" source="Minnesota" target="Indiana" />
+      <edge id="467" source="MiamiOhio" target="Vanderbilt" />
+      <edge id="468" source="MiamiOhio" target="Ohio" />
+      <edge id="469" source="MiamiOhio" target="Cincinnati" />
+      <edge id="470" source="MiamiOhio" target="Marshall" />
+      <edge id="471" source="Vanderbilt" target="SouthCarolina" />
+      <edge id="472" source="Vanderbilt" target="Tennessee" />
+      <edge id="473" source="Vanderbilt" target="Mississippi" />
+      <edge id="474" source="Vanderbilt" target="Georgia" />
+      <edge id="475" source="Vanderbilt" target="WakeForest" />
+      <edge id="476" source="MiddleTennesseeState" target="Illinois" />
+      <edge id="477" source="MiddleTennesseeState" target="MississippiState" />
+      <edge id="478" source="MiddleTennesseeState" target="LouisianaLafayette" />
+      <edge id="479" source="MiddleTennesseeState" target="Maryland" />
+      <edge id="480" source="MiddleTennesseeState" target="AlabamaBirmingham" />
+      <edge id="481" source="Illinois" target="MichiganState" />
+      <edge id="482" source="Illinois" target="Indiana" />
+      <edge id="483" source="Illinois" target="California" />
+      <edge id="484" source="MississippiState" target="Memphis" />
+      <edge id="485" source="MississippiState" target="SouthCarolina" />
+      <edge id="486" source="MississippiState" target="Mississippi" />
+      <edge id="487" source="MississippiState" target="LouisianaState" />
+      <edge id="488" source="MississippiState" target="Arkansas" />
+      <edge id="489" source="Memphis" target="SouthernMississippi" />
+      <edge id="490" source="Memphis" target="Tennessee" />
+      <edge id="491" source="Memphis" target="Tulane" />
+      <edge id="492" source="Memphis" target="Army" />
+      <edge id="493" source="Memphis" target="Cincinnati" />
+      <edge id="494" source="Memphis" target="AlabamaBirmingham" />
+      <edge id="495" source="Nevada" target="Oregon" />
+      <edge id="496" source="Nevada" target="SanJoseState" />
+      <edge id="497" source="Nevada" target="TexasElPaso" />
+      <edge id="498" source="Nevada" target="Tulsa" />
+      <edge id="499" source="Nevada" target="NevadaLasVegas" />
+      <edge id="500" source="Nevada" target="TexasChristian" />
+      <edge id="501" source="Nevada" target="Hawaii" />
+      <edge id="502" source="Oregon" target="WashingtonState" />
+      <edge id="503" source="Oregon" target="OregonState" />
+      <edge id="504" source="Oregon" target="California" />
+      <edge id="505" source="NewMexicoState" target="SouthCarolina" />
+      <edge id="506" source="NewMexicoState" target="TexasElPaso" />
+      <edge id="507" source="NewMexicoState" target="Tulsa" />
+      <edge id="508" source="NewMexicoState" target="UtahState" />
+      <edge id="509" source="NewMexicoState" target="Army" />
+      <edge id="510" source="NewMexicoState" target="Georgia" />
+      <edge id="511" source="SouthCarolina" target="Tennessee" />
+      <edge id="512" source="SouthCarolina" target="Georgia" />
+      <edge id="513" source="SouthCarolina" target="Clemson" />
+      <edge id="514" source="SouthCarolina" target="Arkansas" />
+      <edge id="515" source="Ohio" target="IowaState" />
+      <edge id="516" source="Ohio" target="Marshall" />
+      <edge id="517" source="IowaState" target="Nebraska" />
+      <edge id="518" source="IowaState" target="TexasA&amp;M" />
+      <edge id="519" source="IowaState" target="Missouri" />
+      <edge id="520" source="IowaState" target="NevadaLasVegas" />
+      <edge id="521" source="IowaState" target="OklahomaState" />
+      <edge id="522" source="SanJoseState" target="Nebraska" />
+      <edge id="523" source="SanJoseState" target="Stanford" />
+      <edge id="524" source="SanJoseState" target="TexasElPaso" />
+      <edge id="525" source="SanJoseState" target="Tulsa" />
+      <edge id="526" source="SanJoseState" target="TexasChristian" />
+      <edge id="527" source="SanJoseState" target="Hawaii" />
+      <edge id="528" source="Nebraska" target="NotreDame" />
+      <edge id="529" source="Nebraska" target="Oklahoma" />
+      <edge id="530" source="Nebraska" target="Missouri" />
+      <edge id="531" source="SouthernMississippi" target="Tennessee" />
+      <edge id="532" source="SouthernMississippi" target="Tulane" />
+      <edge id="533" source="SouthernMississippi" target="Cincinnati" />
+      <edge id="534" source="SouthernMississippi" target="OklahomaState" />
+      <edge id="535" source="SouthernMississippi" target="AlabamaBirmingham" />
+      <edge id="536" source="Tennessee" target="Georgia" />
+      <edge id="537" source="Tennessee" target="LouisianaState" />
+      <edge id="538" source="Tennessee" target="Arkansas" />
+      <edge id="539" source="Stanford" target="WashingtonState" />
+      <edge id="540" source="Stanford" target="NotreDame" />
+      <edge id="541" source="Stanford" target="Texas" />
+      <edge id="542" source="Stanford" target="OregonState" />
+      <edge id="543" source="Stanford" target="California" />
+      <edge id="544" source="WashingtonState" target="OregonState" />
+      <edge id="545" source="WashingtonState" target="California" />
+      <edge id="546" source="Temple" target="Navy" />
+      <edge id="547" source="Temple" target="Rutgers" />
+      <edge id="548" source="Temple" target="MiamiFlorida" />
+      <edge id="549" source="Temple" target="Maryland" />
+      <edge id="550" source="Navy" target="NotreDame" />
+      <edge id="551" source="Navy" target="Toledo" />
+      <edge id="552" source="Navy" target="Tulane" />
+      <edge id="553" source="Navy" target="Army" />
+      <edge id="554" source="Navy" target="AirForce" />
+      <edge id="555" source="Navy" target="Rutgers" />
+      <edge id="556" source="Navy" target="WakeForest" />
+      <edge id="557" source="Navy" target="TexasChristian" />
+      <edge id="558" source="TexasA&amp;M" target="NotreDame" />
+      <edge id="559" source="TexasA&amp;M" target="TexasElPaso" />
+      <edge id="560" source="TexasA&amp;M" target="Oklahoma" />
+      <edge id="561" source="TexasA&amp;M" target="Texas" />
+      <edge id="562" source="TexasA&amp;M" target="OklahomaState" />
+      <edge id="563" source="NotreDame" target="AirForce" />
+      <edge id="564" source="NotreDame" target="Rutgers" />
+      <edge id="565" source="NotreDame" target="MichiganState" />
+      <edge id="566" source="TexasElPaso" target="Oklahoma" />
+      <edge id="567" source="TexasElPaso" target="Tulsa" />
+      <edge id="568" source="TexasElPaso" target="TexasChristian" />
+      <edge id="569" source="TexasElPaso" target="Hawaii" />
+      <edge id="570" source="Oklahoma" target="Texas" />
+      <edge id="571" source="Oklahoma" target="OklahomaState" />
+      <edge id="572" source="Toledo" target="Marshall" />
+      <edge id="573" source="Tulane" target="Mississippi" />
+      <edge id="574" source="Tulane" target="Army" />
+      <edge id="575" source="Tulane" target="Cincinnati" />
+      <edge id="576" source="Tulane" target="LouisianaLafayette" />
+      <edge id="577" source="Mississippi" target="Georgia" />
+      <edge id="578" source="Mississippi" target="LouisianaState" />
+      <edge id="579" source="Mississippi" target="NevadaLasVegas" />
+      <edge id="580" source="Mississippi" target="Arkansas" />
+      <edge id="581" source="Tulsa" target="NorthCarolina" />
+      <edge id="582" source="Tulsa" target="OklahomaState" />
+      <edge id="583" source="Tulsa" target="TexasChristian" />
+      <edge id="584" source="Tulsa" target="Hawaii" />
+      <edge id="585" source="NorthCarolina" target="Marshall" />
+      <edge id="586" source="NorthCarolina" target="Clemson" />
+      <edge id="587" source="NorthCarolina" target="WakeForest" />
+      <edge id="588" source="NorthCarolina" target="Maryland" />
+      <edge id="589" source="Army" target="Cincinnati" />
+      <edge id="590" source="Army" target="AirForce" />
+      <edge id="591" source="Army" target="AlabamaBirmingham" />
+      <edge id="592" source="Cincinnati" target="Indiana" />
+      <edge id="593" source="Cincinnati" target="AlabamaBirmingham" />
+      <edge id="594" source="AirForce" target="NevadaLasVegas" />
+      <edge id="595" source="Rutgers" target="MiamiFlorida" />
+      <edge id="596" source="Georgia" target="Arkansas" />
+      <edge id="597" source="LouisianaState" target="AlabamaBirmingham" />
+      <edge id="598" source="LouisianaState" target="Arkansas" />
+      <edge id="599" source="LouisianaLafayette" target="Texas" />
+      <edge id="600" source="LouisianaLafayette" target="AlabamaBirmingham" />
+      <edge id="601" source="Texas" target="Missouri" />
+      <edge id="602" source="Texas" target="OklahomaState" />
+      <edge id="603" source="Marshall" target="MichiganState" />
+      <edge id="604" source="MichiganState" target="Missouri" />
+      <edge id="605" source="Missouri" target="Clemson" />
+      <edge id="606" source="Missouri" target="OklahomaState" />
+      <edge id="607" source="Clemson" target="WakeForest" />
+      <edge id="608" source="Clemson" target="Maryland" />
+      <edge id="609" source="NevadaLasVegas" target="Hawaii" />
+      <edge id="610" source="WakeForest" target="Maryland" />
+      <edge id="611" source="OregonState" target="California" />
+      <edge id="612" source="TexasChristian" target="Hawaii" />
+    </edges>
+  </graph>
+</gexf>
